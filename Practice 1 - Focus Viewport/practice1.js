@@ -1,4 +1,4 @@
-/*const container=document.querySelector('.container');
+const container=document.querySelector('.container');
 const imgs=document.querySelectorAll ('.container img');
 
 
@@ -14,4 +14,3 @@ container.addEventListener('mousemove', function(e){
         img.style.setProperty('--blur',blurValue+'px');
     })
 })
-*/
